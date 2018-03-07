@@ -1,0 +1,48 @@
+{
+  "name": "react-redux-twoway-typescript",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jsx-control-statements": "^3.2.8",
+    "prop-types-ts": "^0.6.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-redux": "^5.0.7",
+    "react-scripts-ts": "2.13.0",
+    "redux": "3.7.2",
+    "uuid": "^3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/uuid": "^3.4.3",
+    "@types/jest": "22.1.0",
+    "@types/node": "8.9.4",
+    "@types/react": "^16.0.40",
+    "@types/react-dom": "^16.0.4",
+    "@types/react-redux": "5.0.14",
+    "@types/react-router-dom": "4.2.3",
+    "@types/react-router-redux": "5.0.11",
+    "@webpack-blocks/typescript": "1.0.0-rc",
+    "@storybook/react": "^3.3.12",
+    "@storybook/addon-actions": "^3.3.12",
+    "@storybook/addon-links": "^3.3.12",
+    "@storybook/addons": "^3.3.12",
+    "@types/enzyme": "3.1.8",
+    "prop-types-ts": "0.6.0",
+    "typescript": "^2.7.2",
+    "enzyme": "3.3.0",
+    "enzyme-adapter-react-16": "1.1.1",
+    "jest": "22.1.4",
+    "react-docgen-typescript": "1.1.0",
+    "react-styleguidist": "6.1.0",
+    "ts-jest": "22.0.1",
+    "tslint": "5.8.0",
+    "tslint-react": "3.3.3"
+  }
+}
